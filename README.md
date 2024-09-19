@@ -1,6 +1,5 @@
 - yo wsg
-- ![PNG image](https://github.com/user-attachments/assets/bc639202-0f0f-4db6-8ce4-8556f4742e1e)
-
+- ![PNG image](https://github.com/user-attachments/assets/0af27d73-0f03-4356-ac4a-611e6c92b360)
 
 
 
